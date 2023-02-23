@@ -25,8 +25,7 @@ type of the figures in the table were objects which I changed to integers using
 functions in the pandas library.
 b. Exploratory Data Analysis: The greenhouse gas emissions in the United
 Kingdom have been on a steady decline since 1990.
-name: DAVID AMUSAN
-Email: davidamusan16@gmail.com
+
 The graph shows greenhouse emissions have been on a steep decline with a
 rather large drop between 2015 and 2020. Investigating that further in the
 figure below shows that between 2019 and 2020 there has been a huge
@@ -41,8 +40,7 @@ first scaling them relative to each other and then applying PCA to reduce each
 sector's number of dimensions to one(1).
 After this was applied the number of columns were reduced from
 100+ to 22, while still retaining the information of each section.
-name: DAVID AMUSAN
-Email: davidamusan16@gmail.com
+
 Scaled and Compiled Table showing Sections against Years.
 d. Modelling Technique: After plotting the data available and deliberating on the
 problem statement. A multiple linear regression model was chosen to be our
@@ -60,8 +58,7 @@ pandemic was correct. Our model predicted a huge increase in the following
 year due to previous occurrences of sharp drops in greenhouse gas emissions.
 Our graph below shows the prediction of the next 5 years against the
 previous 2 years in the dataset.
-name: DAVID AMUSAN
-Email: davidamusan16@gmail.com
+
 Predictions of greenhouse gas emissions over the next 5 years.
 f. Conclusion: The United Kingdom's aim for net zero greenhouse gas emissions
 by 2050 does not seem feasible due to unforeseen circumstances like a
